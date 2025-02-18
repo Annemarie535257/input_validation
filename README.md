@@ -28,7 +28,7 @@ This is a multi-screen Flutter application that allows users to fill out a job a
    ```
 2. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Annemarie535257/input_validation.git
    ```
 3. Navigate to the project folder:
    ```sh
